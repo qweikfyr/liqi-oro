@@ -7,5 +7,5 @@ Założenia:
   - Historia zamówień 
   - Ulubione
   Sklep:
-  -
+  - aaa
   ...
